@@ -45,7 +45,7 @@ Note: The mask image should be a black and white image with the same dimensions 
 
 Then run the script:
 ```bash
-python vton_sd15.py
+python sd1_5.py
 ```
 
 The script will process the inputs and generate an output image of the model wearing the specified garment.
